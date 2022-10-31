@@ -4,7 +4,7 @@
 ### What is this?
 This is a repository for the [Product Preview Card Component Challenge](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-card-component-seK3xy-3fm). This is my take on imitating the following:
 
-![Product Preview Card Component Final](/images/image-product-desktop.jpg)
+![Product Preview Card Component Final](/design/desktop-preview.jpg)
 
 <sub>A snippet of the final product of the Product Preview Card Component Challenge.</sub>
 
