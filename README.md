@@ -6,6 +6,8 @@ This is a repository for the [Product Preview Card Component Challenge](https://
 
 ![Product Preview Card Component Final](/design/desktop-preview.jpg)
 
+[Link to the live demo](https://gcmoony.github.io/product-preview-card-component-main/).
+
 <sub>A snippet of the final product of the Product Preview Card Component Challenge.</sub>
 
 
